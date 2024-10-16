@@ -10,10 +10,9 @@ const josefin = Josefin_Sans({
 })
 
 export const metadata = {
-  // title: 'The Wild Oasis',
   title: {
-    template: "%s / The Wild Oasis",
-    default: "The Wild Oasis",
+    template: "%s / Himalayan Home stay",
+    default: "Himalayan Home stay",
     description: "Welcome to the hotel located in the deep mountains of Himalayan in India"
   }
 };
